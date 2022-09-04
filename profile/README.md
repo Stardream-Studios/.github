@@ -7,5 +7,6 @@ Reasons:
 - Beg for new **Legal Free Software Sample Set** failed
 - Popularity stay at zero and NEVER increase
 - Always develop low-level projects without create new
+- Doesn't receive sample submissions
 
 This organization will be deleted in a next few days.
