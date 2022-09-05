@@ -1,4 +1,4 @@
-Sorry, Stardream is out of service.
+Error: System Failure since it isn't a professional tier.
 
 Reasons:
 
