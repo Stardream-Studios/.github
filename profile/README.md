@@ -4,7 +4,7 @@ Reasons:
 
 - Hollow Waiting
 - Always failed to fix **Legal Free Software Sample Set** related errors
-- Beg for new **Legal Free Software Sample Set** failed
+- Beg for new **Legal Free Software Sample Set**, result in a failure
 - Popularity stay at zero and NEVER increase
 - Always develop low-level projects
 - Doesn't receive sample submissions
