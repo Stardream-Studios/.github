@@ -1,4 +1,4 @@
-Error: System Failure since it isn't a professional tier.
+Error: System Failure since it isn't a professional organization.
 
 Reasons:
 
