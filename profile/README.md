@@ -1,4 +1,4 @@
-Error: System Failure since it isn't a professional organization.
+Error: System Failure since it isn't a professional organization. Stardream has been bankrupted.
 
 Reasons:
 
