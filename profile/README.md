@@ -1,2 +1,2 @@
-本组织的所有成员无任何活动，故停止服务。<br>
-Service has benn stopped becuase none of members are active.
+开源乐器采样工厂。<br>
+Open Source Instrument Sample Factory.
