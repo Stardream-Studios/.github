@@ -1,4 +1,5 @@
-开源乐器采样生产场所和志愿团队。<br>
-Open Source Instrument Sample Production and Contribution Team.
+BOOM. Stardream is announced to be disbanded since 2023-12-29 by following problems:
 
-[官方 Trello 看板 Official Trello Board](https://trello.com/b/2zjAqpIi)
+- Popularity stay on zero
+- Lack of resources
+- Rules too strict
